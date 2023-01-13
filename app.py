@@ -19,4 +19,4 @@ api.add_resource(PhotoRekognitionResource, '/get_photo_labels')
 api.add_resource(PostingResource, '/posting')
 
 if __name__ == '__main__' :
-    app.run()
+    app.run()   
